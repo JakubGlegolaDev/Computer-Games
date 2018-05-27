@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 818091aa055144db39f046923817317f
+timeCreated: 1511315931
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barlow Semi Condensed
+  fontNames:
+  - Barlow Semi Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d9c7f201b0c84fe08bb886d803282e3, type: 3}
+  - {fileID: 12800000, guid: 098195f0e43ee4c9dbb40152c6715c61, type: 3}
+  - {fileID: 12800000, guid: 673982f2a025a4514ab5512051f11931, type: 3}
+  - {fileID: 12800000, guid: 70237e33fc1674f36bdee1d9f767aa5c, type: 3}
+  - {fileID: 12800000, guid: 68169d7472c9a4a5092af1f194000c14, type: 3}
+  - {fileID: 12800000, guid: 7445f25a890374a89978bde3ca05dcb8, type: 3}
+  - {fileID: 12800000, guid: 4a58bd2c62c1548fd997262e1a81b34e, type: 3}
+  - {fileID: 12800000, guid: 5867c53cbb69b4f9598068d85d830a1d, type: 3}
+  - {fileID: 12800000, guid: 2a9394cd528e14e869b41fa74776392d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
